@@ -1,0 +1,177 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Monitor",
+      "title": "Acer NITRO",
+      "img": "/images/Monitor/p1.webp",
+      "price": "₹6000"
+    },
+    {
+      "id": 2,
+      "category": "Monitor",
+      "title": "MarQ by Flipkart",
+      "img": "/images/Monitor/p2.webp",
+      "price": "₹13000"
+    },
+    {
+      "id": 3,
+      "category": "Monitor",
+      "title": "Lenovo G27",
+      "img": "/images/Monitor/p3.webp",
+      "price": "₹12000"
+    },
+    {
+      "id": 4,
+      "category": "Monitor",
+      "title": "ZEBRONICS ZEB-A24",
+      "img": "/images/Monitor/p4.webp",
+      "price": "₹8000"
+    },
+
+    {
+      "id": 5,
+      "category": "RAM",
+      "title": "Simmtronic RAM",
+      "img": "/images/RAM/p1.webp",
+      "price": "₹900"
+    },
+    {
+      "id": 6,
+      "category": "RAM",
+      "title": "Corsair Vengeance",
+      "img": "/images/RAM/p2.webp",
+      "price": "₹2200"
+    },
+    {
+      "id": 7,
+      "category": "RAM",
+      "title": "Crucial CT8G4DFS824A",
+      "img": "/images/RAM/p3.webp",
+      "price": "₹1800"
+    },
+    {
+      "id": 8,
+      "category": "RAM",
+      "title": "KINGSTON HyperX Fury",
+      "img": "/images/RAM/p4.webp",
+      "price": "₹2200"
+    },
+
+    {
+      "id": 9,
+      "category": "Mouse",
+      "title": "Arctic Fox",
+      "img": "/images/Mouse/p1.webp",
+      "price": "₹300"
+    },
+    {
+      "id": 10,
+      "category": "Mouse",
+      "title": "ZEBRONICS ZEB-POP",
+      "img": "/images/Mouse/p2.webp",
+      "price": "₹400"
+    },
+    {
+      "id": 11,
+      "category": "Mouse",
+      "title": "ENTWINO F-1",
+      "img": "/images/Mouse/p3.webp",
+      "price": "₹350"
+    },
+    {
+      "id": 12,
+      "category": "Mouse",
+      "title": "ENTWINO",
+      "img": "/images/Mouse/p4.webp",
+      "price": "₹500"
+    },
+
+    {
+      "id": 13,
+      "category": "SSD",
+      "title": "WD Green SATA",
+      "img": "/images/SSD/p1.webp",
+      "price": "₹2200"
+    },
+    {
+      "id": 14,
+      "category": "SSD",
+      "title": "Crucial BX500",
+      "img": "/images/SSD/p2.webp",
+      "price": "₹900"
+    },
+    {
+      "id": 15,
+      "category": "SSD",
+      "title": "ZEBRONICS ZEB-SD52",
+      "img": "/images/SSD/p3.webp",
+      "price": "₹2000"
+    },
+    {
+      "id": 16,
+      "category": "SSD",
+      "title": "WESTERN DIGITAL WD",
+      "img": "/images/SSD/p4.webp",
+      "price": "₹3000"
+    },
+
+    {
+      "id": 17,
+      "category": "Keyboard",
+      "title": "HP 150",
+      "img": "/images/Keyboard/p1.webp",
+      "price": "₹600"
+    },
+    {
+      "id": 18,
+      "category": "Keyboard",
+      "title": "HP 230",
+      "img": "/images/Keyboard/p2.webp",
+      "price": "₹1400"
+    },
+    {
+      "id": 19,
+      "category": "Keyboard",
+      "title": "Zoook Orbit pro",
+      "img": "/images/Keyboard/p3.webp",
+      "price": "₹3000"
+    },
+    {
+      "id": 20,
+      "category": "Keyboard",
+      "title": "AMKETTE EvoFox",
+      "img": "/images/Keyboard/p4.webp",
+      "price": "₹1000"
+    },
+
+    {
+      "id": 21,
+      "category": "CPU",
+      "title": "Intel i5-12400F",
+      "img": "/images/CPU/p1.webp",
+      "price": "₹14500"
+    },
+    {
+      "id": 22,
+      "category": "CPU",
+      "title": "amd Ryzen 5 5600",
+      "img": "/images/CPU/p2.webp",
+      "price": "₹16000"
+    },
+    {
+      "id": 23,
+      "category": "CPU",
+      "title": "Intel Core i3-10100",
+      "img": "/images/CPU/p3.webp",
+      "price": "₹10000"
+    },
+    {
+      "id": 24,
+      "category": "CPU",
+      "title": "amd Ryzen 7 7700X",
+      "img": "/images/CPU/p4.webp",
+      "price": "₹34000"
+    }
+  ]
+}

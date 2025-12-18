@@ -1,0 +1,287 @@
+🟦 FRONTEND DEVELOPER KA FULL WORK — A TO Z (Company Level)
+
+🟢 1. UI Design ko Code me convert karna
+
+Company me UI/UX team Adobe XD / Figma design deti hai.
+
+Your job:
+
+Figma → Pixel-perfect HTML/CSS/SCSS/React me convert karna
+
+Responsive design banana (desktop → tablet → mobile)
+
+Grid layout, spacing, typography, colors follow karna
+
+Buttons, forms, cards, navbar, footer sab banana
+
+This is daily work.
+
+🟢 2. Component-Based Development (React/Angular/Vue)
+
+Company me reusable components banaye jaate hain:
+
+Navbar
+
+Sidebar
+
+Slider
+
+Card
+
+Product item
+
+Input fields
+
+Buttons
+
+Modals
+
+Ek component multiple pages me use hota hai.
+
+🟢 3. API Integration (MOST IMPORTANT)
+
+Backend API deta hai → Frontend call karta hai.
+
+Aapko karna hota hai:
+
+Fetch/axios se API call
+
+Loading, error handling
+
+API data list me show karna
+
+Pagination, search, filter
+
+JWT token + auth header
+
+POST, PUT, DELETE API implement karna
+
+🟢 4. State Management (Redux / Context / Zustand)
+
+Company applications bada hota hai, isliye:
+
+Cart data
+
+User data
+
+Filters
+
+Notifications
+
+Products
+
+Ye sab global state me manage hota hai.
+
+🟢 5. Form Validation (Company Level forms)
+
+Login form
+
+Signup
+
+Checkout form
+
+Address add form
+
+Payment form
+
+Validation:
+
+Required
+
+Email
+
+Password rules
+
+Phone number
+
+OTP
+
+Error messages
+
+Disable-submit button state
+
+🟢 6. Authentication + Authorization
+
+React side me:
+
+Login ke baad token store karna
+
+Protected routes
+
+Role-based UI (admin/user)
+
+Auto redirect
+
+Expired token handle
+
+Logout
+
+🟢 7. Performance Optimization
+
+React slow na chale uska dhyan:
+
+useMemo, useCallback
+
+Lazy loading
+
+Code splitting
+
+Removing unnecessary re-renders
+
+Image optimization
+
+Optimized bundle size
+
+🟢 8. Mobile Responsive + Cross Browser Support
+
+Chrome
+
+Firefox
+
+Safari
+
+Edge
+
+Phone, tablet, laptop sab me layout perfect.
+
+🟢 9. Debugging (Real Company Work)
+
+Error aate hain:
+
+API fails
+
+CORS error
+
+UI break
+
+CSS conflict
+
+Deployment errors
+
+Tools:
+
+Chrome DevTools
+
+React DevTools
+
+Postman
+
+🟢 10. Version Control (Git + GitHub/GitLab)
+
+Daily work:
+
+Pull latest code
+
+Create new branch
+
+Commit
+
+Push
+
+Merge request
+
+Conflict resolve
+
+🟢 11. Deployment Work (Basic)
+
+Frontend developer sometimes:
+
+Build banana
+
+Netlify / Vercel / AWS S3 p deploy karna
+
+CI/CD pipelines samajhna
+
+🟢 12. Team Communication
+
+Daily standup meeting me batana:
+
+Kal kya kiya
+
+Aaj kya karoge
+
+Problem aayi kya
+
+Slack / Teams / Jira use hota hai.
+
+🟢 13. Code Review
+
+Aapka code senior dev review karta hai:
+
+Code clean hona
+
+Reusable
+
+Proper folder structure
+
+No duplicated code
+
+Performance theek
+
+Aap bhi juniors ka code review karte ho.
+
+🟢 14. UI testing
+
+Button click
+
+Form submission
+
+API working
+
+User flow test
+
+Edge case check
+
+Sometimes automation tools:
+
+Jest
+
+React Testing Library
+
+🟢 15. Documentation
+
+API kaise call karni
+
+Components ka use
+
+Folder structure
+
+Guidelines
+
+Short documentation likhna padta hai.
+
+🔵 FRONTEND PROJECT FLOW — COMPANY ME
+
+UI/UX design milta hai
+
+Jira task milta hai
+
+Branch create
+
+Layout code
+
+API integrate
+
+Validation
+
+Testing
+
+Code review
+
+Merge
+
+Deploy
+
+🚀 Summary (Very Simple)
+Frontend Developer company me yeh sab karta hai:
+
+✔ UI banana
+✔ API connect karna
+✔ State manage karna
+✔ Cart, login, search sab banana
+✔ Deployment
+✔ Debugging
+✔ Git
+✔ Responsive design
+✔ Code review
+✔ Team work

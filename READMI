@@ -1,0 +1,142 @@
+computer-shop/
+│
+├── public/
+│   ├── images/
+│   │   ├── banners/
+│   │   ├── products/
+│   │   ├── logos/
+│   │   └── icons/
+│   └── favicon.ico
+│
+├── src/
+│   ├── assets/
+│   │   ├── images/
+│   │   ├── icons/
+│   │   └── data/
+│   │       └── products.json
+│   │
+│   ├── components/
+│   │   ├── common/          # Buttons, Inputs, Modals, Loaders
+│   │   ├── layout/          # Header, Footer, Navbar, Sidebar
+│   │   ├── product/         # ProductCard, ProductGrid, Filters
+│   │   ├── cart/            # CartDrawer, CartItem
+│   │   ├── home/            # Hero, CategorySection, FeaturedProducts
+│   │   └── ui/              # Dropdowns, Popups, badges
+│   │
+│   ├── pages/
+│   │   ├── HomePage.jsx
+│   │   ├── ProductPage.jsx
+│   │   ├── ProductDetail.jsx
+│   │   ├── CartPage.jsx
+│   │   ├── Checkout.jsx
+│   │   ├── OrdersPage.jsx
+│   │   └── Login.jsx
+│   │
+│   ├── context/
+│   │   ├── CartContext.jsx
+│   │   ├── ProductContext.jsx
+│   │   ├── AuthContext.jsx
+│   │   └── ThemeContext.jsx
+│   │
+│   ├── hooks/
+│   │   ├── useCart.js
+│   │   ├── useAuth.js
+│   │   └── useProducts.js
+│   │
+│   ├── services/
+│   │   ├── api.js           # axios instance
+│   │   ├── productService.js
+│   │   ├── authService.js
+│   │   └── orderService.js
+│   │
+│   ├── utils/
+│   │   ├── helpers.js
+│   │   ├── formatPrice.js
+│   │   └── constants.js
+│   │
+│   ├── styles/
+│   │   ├── globals.css
+│   │   ├── variables.css
+│   │   └── tailwind.css
+│   │
+│   ├── router/
+│   │   └── AppRouter.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── vite.config.js
+
+
+
+; Structure 2
+
+
+src/
+│
+├── app/
+│   ├── routes.jsx
+│   ├── store/
+│   │   └── index.js
+│   └── hooks/
+│       └── useAuth.js
+│
+├── layout/
+│   ├── MainLayout.jsx
+│   ├── AuthLayout.jsx
+│   └── DashboardLayout.jsx
+│
+├── pages/
+│   ├── Home/
+│   │   ├── Home.jsx
+│   │   └── Home.css / .module.css (optional)
+│   ├── About/
+│   │   └── AboutUs.jsx
+│   ├── Contact/
+│   │   └── ContactUs.jsx
+│   ├── Product/
+│   │   ├── ProductList.jsx
+│   │   ├── ProductDetails.jsx
+│   │   └── service.js
+│   └── Auth/
+│       ├── Login.jsx
+│       └── Register.jsx
+│
+├── components/
+│   ├── ui/
+│   │   ├── Button.jsx
+│   │   ├── Card.jsx
+│   │   └── Input.jsx
+│   ├── Header/
+│   │   └── Header.jsx
+│   ├── Footer/
+│   │   └── Footer.jsx
+│   └── Shared/
+│       └── Loader.jsx
+│
+├── services/
+│   ├── api.js
+│   └── productService.js
+│
+├── hooks/
+│   └── useFetch.js
+│
+├── utils/
+│   ├── constants.js
+│   └── helpers.js
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── fonts/
+│
+├── styles/
+│   ├── globals.css
+│   └── tailwind.css
+│
+├── App.jsx
+└── main.jsx
