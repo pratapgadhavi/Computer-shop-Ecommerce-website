@@ -1,16 +1,59 @@
-# React + Vite
+# 🖥️ Computer Shop – E-Commerce UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern **Computer Shop / E-Commerce frontend project** built with **React + Tailwind CSS**, focused on performance, clean UI, and real-world ecommerce layouts.
 
-Currently, two official plugins are available:
+🚀 **Live Demo:** [(Add your Netlify link here)](https://computer-shop-project.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* ⚡ High-performance React application (Lighthouse Performance **95+**)
+* 🎨 Modern & responsive UI using **Tailwind CSS**
+* 🛒 E-commerce layouts: product listing, cart UI, buttons & badges
+* 📱 Fully responsive (Desktop / Tablet / Mobile)
+* 🔍 SEO & Best Practices score **100**
+* ♿ Accessibility-friendly structure
+* 🌐 Deployed on **Netlify**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* **React**
+* **Tailwind CSS**
+* **JavaScript (ES6+)**
+* **Vite** (for fast build & development)
+* **Netlify** (deployment)
+
+---
+
+## 📊 Performance Report (Lighthouse)
+
+* ⚡ Performance: **96**
+* ♿ Accessibility: **82**
+* ✅ Best Practices: **100**
+* 🔍 SEO: **100**
+
+Optimized using Vite build, efficient assets, and clean component structure.
+
+---
+
+## 📌 Future Improvements
+
+* 🔐 Authentication (Login / Signup)
+* 🛍️ Complete cart & checkout flow
+  
+---
+
+## 👤 Author
+
+**Pratap Gadhavi**
+Frontend Developer (React / Angular)
+
+* GitHub: [https://github.com/your-username](https://github.com/your-username)
+* Portfolio: (Add portfolio link)
+
+---
+
+⭐ If you like this project, give it a star!
