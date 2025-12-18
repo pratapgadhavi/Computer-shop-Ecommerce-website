@@ -2,7 +2,7 @@
 
 A modern **Computer Shop / E-Commerce frontend project** built with **React + Tailwind CSS**, focused on performance, clean UI, and real-world ecommerce layouts.
 
-🚀 **Live Demo:** [(Add your Netlify link here)](https://computer-shop-project.netlify.app/)
+🚀 **Live Demo:** [(Check here)](https://computer-shop-project.netlify.app/)
 
 ---
 
