@@ -1,9 +1,6 @@
 import React, { Suspense, lazy } from "react";
 import { Route, Routes } from "react-router-dom";
 import MainLayout from "../layout/MainLayout";
-import PageNotFound from "../Components/UI/PageNotFound/PageNotFound";
-import Checkout from "../Components/Checkout/Checkout";
-import OrderSuccess from "../non-optimized-components/OrderSuccess/OrderSuccess";
 
 // 🔹 Lazy loaded pages
 const Home = lazy(() => import("../Components/Home/Home"));
@@ -22,6 +19,13 @@ const Registration = lazy(() =>
 );
 const Cart = lazy(() => import("../Components/Cart/Cart"));
 const Model = lazy(() => import("../Components/UI/Category-main/Model"));
+const OrderSuccess = lazy(() =>
+  import("../non-optimized-components/OrderSuccess/OrderSuccess")
+);
+const PageNotFound = lazy(() =>
+  import("../Components/UI/PageNotFound/PageNotFound")
+);
+const Checkout = lazy(() => import("../Components/Checkout/Checkout"));
 
 const AppRoutes = () => {
   return (
