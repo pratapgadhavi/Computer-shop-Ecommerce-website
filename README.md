@@ -30,7 +30,7 @@ A modern **Computer Shop / E-Commerce frontend project** built with **React + Ta
 
 ## 📊 Performance Report (Lighthouse)
 
-* ⚡ Performance: **96**
+* ⚡ Performance: **95+**
 * ♿ Accessibility: **82**
 * ✅ Best Practices: **100**
 * 🔍 SEO: **100**
@@ -51,7 +51,6 @@ Optimized using Vite build, efficient assets, and clean component structure.
 **Pratap Gadhavi**
 Frontend Developer (React / Angular)
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
 * Portfolio: (https://pratap-portfolio-website.netlify.app/)
 
 ---
