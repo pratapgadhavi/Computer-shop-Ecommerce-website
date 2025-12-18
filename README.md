@@ -52,7 +52,7 @@ Optimized using Vite build, efficient assets, and clean component structure.
 Frontend Developer (React / Angular)
 
 * GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Portfolio: (Add portfolio link)
+* Portfolio: (https://pratap-portfolio-website.netlify.app/)
 
 ---
 
